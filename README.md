@@ -1,2 +1,2 @@
 # Computer-Graphics
-Cmpsc457 - Pennsylvania State University
+CMPSC 457 - Pennsylvania State University
